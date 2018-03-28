@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/car">
+        <file>img/log.png</file>
+        <file>img/loginbk.png</file>
+        <file>img/loginbk1.jpg</file>
+        <file>img/book.jpg</file>
+        <file>img/Enter.png</file>
+        <file>img/exit.png</file>
+        <file>img/bc.png</file>
+        <file>img/bl.png</file>
+        <file>img/bmw.png</file>
+        <file>img/Audi.png</file>
+        <file>img/Porsche.png</file>
+        <file>img/Toyota.png</file>
+        <file>img/Nisan.png</file>
+        <file>img/Mazda.png</file>
+        <file>img/find.png</file>
+        <file>img/delete.png</file>
+        <file>img/update.png</file>
+        <file>img/insert.png</file>
+        <file>img/back.png</file>
+        <file>img/storage.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
